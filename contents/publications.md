@@ -1,12 +1,22 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+\* indicates corresponding author
+<div class="publication-list">
+  <div class="publication-item">
+    <img src="../static/assets/img/icon/liucheng.png" alt="hmc-slam" class="publication-icon">
+    <div class="publication-text">
+    <strong>HMC-SLAM: A Robust VSLAM Based on RGB-D Camera in Dynamic Environment Combined Hierarchical Multidimensional Clustering Algorithm.</strong><br>
+    <strong>IEEE Transactions on Instrumentation and Measurement,2025</strong><br>
+    <strong>B. Xu</strong>, Z. Zheng, Z.Pan and L. Yu*.<br>
+    <a href="../static/cv/HMC-SLAM_A_Robust_VSLAM_Based_on_RGB-D_Camera_in_Dynamic_Environment_Combined_Hierarchical_Multidimensional_Clustering_Algorithm.pdf">[Paper]</a>.<strong>Accept</strong>
+    </div>
+  </div>
+  <div class="publication-item">
+    <img src="../static/assets/img/icon/stagauss.png" alt="stagauss-slam" class="publication-icon">
+    <div class="publication-text">
+    <strong>Stagauss-SLAM: A Robust RGBD Dense SLAM Algorithm for Dynamic Scenes.</strong><br>
+    <strong>IEEE Robotics and Automation Letters,2025</strong><br>
+    <strong>B. Xu</strong>, F. Bian, Z.Pan, J.Hou and L. Yu*.<br>
+    <strong>Under Review</strong>
+    </div>
+  </div>
+</div>
 

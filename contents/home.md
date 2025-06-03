@@ -1,16 +1,17 @@
 
+![Email Icon](../static/assets/img/icon/envelope.20.png) [Email](mailto:soochowxu@foxmail.com) | ![Email Icon](../static/assets/img/icon/google.20.png) [Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=IA8odEAAAAAJ) | ![github Icon](../static/assets/img/icon/github.20.png) [GitHub](https://github.com/XU0510)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
+I am currently a second-year graduate student at the School of Mechanical and Electrical Engineering, Soochow University, under the supervision of [Prof. Lei Yu](https://jdxy.suda.edu.cn/a7/72/c14011a305010/page.htm). My primary research focuses on SLAM technology for mobile robots in dynamic scenes and 3D reconstruction techniques.This is my [Chinese CV](../static/cv/cv.pdf).
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+![MS](../static/assets/img/icon/user-master.20.png) M.S. Sept. 2023 – June. 2026 (Expect)\
+**Soochow University**\
+College of Electrical and Mechanical Engineering
+
+![BS](../static/assets/img/icon/user-bachelor20.png) B.S. Sept. 2019 – June. 2023 \
+**Lanzhou Jiaotong University**\
+College of Automation and Electrical Engineering
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+3D reconstruction, Dynamic Environment, SLAM.
 

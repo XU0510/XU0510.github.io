@@ -14,7 +14,7 @@
     <strong>Autonomous Valet Parking.</strong><br>
     <strong>Personal Research Project</strong><br>
     Jan. 2025 - Now<br>
-    Main Tasks: A method for constructing semantic maps of underground parking lots based on the Inverse Perspective Transformation (IPM) is being realized and evaluated. SLAM localization algorithm based on multiple LiDAR/IMU fusion for underground parking environment with missing GPS signals and sparse features.
+    Main Tasks: A method for constructing semantic maps of underground parking lots based on the Inverse Perspective Mapping (IPM) is being realized and evaluated. SLAM localization algorithm based on multiple LiDAR/IMU fusion for underground parking environment with missing GPS signals and sparse features.
     </div>
   </div>
 </div>

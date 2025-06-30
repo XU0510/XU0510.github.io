@@ -4,7 +4,7 @@
     <div class="publication-text">
     <strong>Shanghai Tunnel Project.</strong><br>
     <strong>Horizontal Research Project</strong><br>
-    June. 2024 – Sept. 2024<br>
+    June. 2024 – Oct. 2024<br>
     Main tasks: assisting in the construction of LIDAR equipment at the Shanghai Tunnel project site, assisting in the calibration of multiple LIDARs, and completing the recording of RTK and LIDAR datasets at the site.
     </div>
   </div>

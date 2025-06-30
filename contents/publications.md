@@ -24,7 +24,7 @@
     <strong>Enhanced 3D LiDAR-Inertial SLAM for Large-Scale Outdoor Environments Using Local Ground Constraints.</strong><br>
     <strong>Measurement,2025</strong><br>
     Zexuan Zheng, Tingtao Wei, <strong>Bowen Xu</strong>, Junyi Hou and Lei Yu*.<br>
-    <strong>Under Review</strong>
+    <strong>Accept</strong>
     </div>
   </div>
   <div class="publication-item">
